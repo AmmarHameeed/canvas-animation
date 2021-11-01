@@ -1,7 +1,7 @@
 $(document).ready(function () {
     setTimeout(function(){
         $(".loader-container").hide();
-     }, 500);
+     }, 750);
     if (!$('#myCanvas').tagcanvas({
         reverse: false,
         depth: 0.8,
